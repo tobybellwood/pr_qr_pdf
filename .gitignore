@@ -1,0 +1,5 @@
+qr_pngs/
+qr_svgs/
+__pycache__/
+*.pyc
+*.pdf
